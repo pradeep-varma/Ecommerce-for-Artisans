@@ -1,0 +1,43 @@
+main{
+    min-height:87vh;
+}
+h3{
+    padding: 1rem 0;
+}
+h1{
+    font-size: 1.8rem;
+    padding: 1rem 0; 
+}
+h2{
+    font-size: 1.4rem;
+    padding: 0.5rem 0; 
+}
+
+.rating span{
+    margin:0.1 rem;
+}
+.img-Change{
+    width: 270px;
+    height: 200px;
+}
+
+.img-screens{
+    width:4000x;
+    height:380px;
+}
+.social-icon{
+    margin: 20px  30px;
+}
+.social-icon:hover{
+    background-color:white;
+    border-radius:100%;
+}
+.bar{
+    background-color:skyblue;
+}
+
+
+
+
+
+
